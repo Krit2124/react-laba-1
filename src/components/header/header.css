@@ -1,0 +1,10 @@
+.mainHeaderElements {
+    display: flex;
+    justify-content: start;
+    gap: 15px;
+}
+
+.mainHeaderElements img {
+    width: 100px;
+    height: 100px;
+}
